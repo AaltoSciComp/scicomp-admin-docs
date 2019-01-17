@@ -2,10 +2,10 @@
 About these docs
 ================
 
-These docs originally came from the Triton User Guide, but now serves
-as a general Aalto scientific computing guide.  The intention is a
-good central resources for researchers, kept up to date by the whole
-community.
+These docs originally came from the Triton Admin Guide, but now serves
+as a repository for nonsensitive admin information.  The intention is a
+good central resources for Aalto Science IT admins or interested
+parties.
 
 Contributing
 ~~~~~~~~~~~~
@@ -28,6 +28,11 @@ the basics are similar).
 
 Contributing gives consent to use content under the licenses (CC-BY
 4.0 or CC0 for examples).
+
+.. warning::
+
+  Remember that the guide is public and sensitive information
+  should go to internal wiki.
 
 
 Requirements and building
