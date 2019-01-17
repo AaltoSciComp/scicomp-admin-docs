@@ -1,0 +1,8 @@
+/_build/
+.DS_Store
+
+# Emacs backup files
+*~
+
+# Vim swap files
+*.swp
